@@ -1,9 +1,9 @@
 body {
-  background: #f9f;
+  background: #ffa7b6;
 }
 
 img {
-  margin: 30px auto;
-  border: 15px solid #f3f;
-  outline: 15px solid #f6f;
+  margin: 30px 0;
+  outline: 15px solid #ff8da1;
+  border: 15px solid #ff748c;
 }
