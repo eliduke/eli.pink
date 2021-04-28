@@ -26,13 +26,8 @@ img.flipped {
   -ms-filter: "FlipH";
 }
 
-.quote {
-  margin-bottom: 10px;
-}
-
 .links {
   padding-top: 25px;
-  border-top: 1px solid #ff8da1;
 }
 
 ul {
